@@ -1,0 +1,12 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: blue;
+}
+.center{
+    width: 200px;
+    height: 200px;
+    background: white;
+}
